@@ -1,10 +1,10 @@
 # Sharer
 
-Un script pour gérer des boutons de partage sur les réseaux sociaux sans polluer une page avec des scripts tiers.
+Sharer is a script that handle social network share buttons without using third-party scripts.
 
-Utilisé pour les boutons de partage des recettes sur le site des [Vins d’Alsace](http://www.vinsalsace.com/fr/).
+Used for the receipt share buttons in [Vins d’Alsace](http://www.vinsalsace.com/fr/).
 
-## Utilisation
+## Uuse
 
 Markup :
 
