@@ -2,7 +2,7 @@
 
 Sharer is a script that handle social network share buttons without using third-party scripts.
 
-Used for the receipt share buttons in [Vins d’Alsace](http://www.vinsalsace.com/fr/).
+Used for the receipt share buttons on [Vins d’Alsace](http://www.vinsalsace.com/fr/).
 
 ## Uuse
 
